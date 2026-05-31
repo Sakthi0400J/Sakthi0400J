@@ -314,9 +314,7 @@ scale  = "Bulk document processing ready"
 <img src="https://img.shields.io/badge/EMAIL-sakthishriram12156-FF2D95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=FF2D95"/>
 </a>
 &nbsp;
-<a href="tel:+916369487227">
-<img src="https://img.shields.io/badge/PHONE-+91%206369487227-00FF88?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&color=00FF88"/>
-</a>
+
 
 <br/><br/>
 
