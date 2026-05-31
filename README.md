@@ -1,270 +1,335 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  ░██████╗░█████╗░██╗░░██╗████████╗██╗░░██╗██╗               ║
-║  ██╔════╝██╔══██╗██║░██╔╝╚══██╔══╝██║░░██║██║               ║
-║  ╚█████╗░███████║█████═╝░░░░██║░░░███████║██║               ║
-║  ░╚═══██╗██╔══██║██╔═██╗░░░░██║░░░██╔══██║██║               ║
-║  ██████╔╝██║░░██║██║░╚██╗░░░██║░░░██║░░██║██║               ║
-║  ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝               ║
-║                                                               ║
-║           S H R I R A M   K  //  AI ENGINEER                 ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+Engineer+%7C+Data+Scientist+%7C+Full-Stack+Dev;Building+Intelligent+Systems+%E2%96%A0+Solving+Real+Problems)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakthi--shriram--k-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakthi-shriram-k-6a7410292)
-[![GitHub](https://img.shields.io/badge/GitHub-Sakthi0400J-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakthi0400J)
-[![Email](https://img.shields.io/badge/Email-sakthishriram12156-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthishriram12156@gmail.com)
-[![Location](https://img.shields.io/badge/Chennai%2C_India-🇮🇳-%23FF2D95?style=for-the-badge)](/)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=SAKTHI%20SHRIRAM%20K&fontSize=60&color=0:00F5FF,50:B026FF,100:FF2D95&stroke=00F5FF&strokeWidth=2&animation=fadeIn&fontColor=ffffff&fontAlignY=55&desc=AI%20ENGINEER%20%2F%2F%20DATA%20SCIENTIST%20%2F%2F%20FULL-STACK%20DEV&descAlignY=75&descSize=14" width="100%"/>
 
 </div>
-
----
-
-## `// 01 — SYSTEM PROFILE`
-
-```js
-const engineer = {
-  name       : "Sakthi Shriram K",
-  role       : "AI Engineer | Data Scientist | Full-Stack Dev",
-  location   : "Chennai, Tamil Nadu, India 🇮🇳",
-  education  : "B.Tech AI & Data Science @ SRM TRP Engineering College",
-  cgpa       : 7.53,               // out of 10.0
-  funding    : "$1,350 IEEE EPICS Grant",
-  problems   : 350,                // LeetCode + CodeChef + HackerRank
-  accuracy   : "83.6%",           // deepfake detection research
-  status     : "🟢 BUILDING THE FUTURE"
-};
-```
-
-> *Building intelligent systems that bridge the gap between cutting-edge AI research and real-world accessibility solutions.*
-
----
-
-## `// 02 — TECH ARSENAL`
 
 <div align="center">
 
-**⚡ AI / MACHINE LEARNING**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&multiline=false&width=650&lines=%3E+initializing+neural+interface...;%3E+loading+profile%3A+SAKTHI_SHRIRAM_K.exe;%3E+AI+Engineer+%7C+Data+Scientist+%7C+Full-Stack+Dev;%3E+Building+intelligent+systems+that+matter.;%3E+status%3A+%F0%9F%9F%A2+BUILDING+THE+FUTURE;%3E+grant_secured%3A+%241%2C350+IEEE+EPICS+%E2%9C%93;%3E+problems_solved%3A+350%2B+%E2%9C%93;%3E+ready_for_deployment.)](https://git.io/typing-svg)
 
-![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+</div>
 
-**◈ LLMs / GENAI**
+<br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-%23B026FF?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991?style=flat-square&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-%23000000?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-%2300F5FF?style=flat-square)
+<div align="center">
 
-**◈ DATA & ANALYTICS**
-
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2311557C?style=flat-square)
-
-**◈ FULL-STACK**
-
-![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000?style=flat-square&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
-
-**◈ INFRA / TOOLS**
-
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/sakthi-shriram-k-6a7410292)&nbsp;
+[![GitHub](https://img.shields.io/badge/-%20GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a)](https://github.com/Sakthi0400J)&nbsp;
+[![Gmail](https://img.shields.io/badge/-%20Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:sakthishriram12156@gmail.com)&nbsp;
+[![Location](https://img.shields.io/badge/-%20Chennai%2C%20India-%23FF2D95?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0a0a0a)](/)
 
 </div>
 
 ---
 
-## `// 03 — ACTIVE PROJECTS`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<table>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;`// 01 — SYSTEM.PROFILE`
+
+```rust
+struct Engineer {
+    name       : &str  = "Sakthi Shriram K",
+    role       : &str  = "AI Engineer | Data Scientist | Full-Stack Dev",
+    location   : &str  = "Chennai, Tamil Nadu, India 🇮🇳",
+    education  : &str  = "B.Tech AI & Data Science — SRM TRP Engg. College",
+    cgpa       : f32   = 7.53,           // out of 10.0
+    grant      : &str  = "$1,350 IEEE EPICS",
+    problems   : u32   = 350,            // LeetCode + CodeChef + HackerRank + SRM eLab
+    accuracy   : &str  = "83.6%",        // deepfake detection | first-author research
+    certifs    : u8    = 20,             // + 10 HackerRank skill badges
+    status     : bool  = ONLINE,         // 🟢 currently building
+}
+```
+
+> `"AI & Data Science student with strong problem-solving abilities and solid foundations in algorithms, data science, and system design — building scalable, production-ready AI solutions that bridge research and real-world impact."`
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⚡ &nbsp;`// 02 — TECH.ARSENAL`
+
+<div align="center">
+
+### `[ AI · ML · DEEP LEARNING ]`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=xgboost&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### `[ DATA SCIENCE · ANALYTICS ]`
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### `[ FULL-STACK · WEB ]`
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### `[ LANGUAGES · TOOLS · PLATFORMS ]`
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🔬 &nbsp;`// 03 — PROJECT.MANIFEST`
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-### ⚡ HandSign-X1 &nbsp; `ACTIVE`
-**Smart Handheld Translator — Hearing & Speech Impaired**
-
-Real-time AI-powered communication device enabling speech-to-text and sign-based translation. **IEEE EPICS funded** and targeting real-world accessibility deployment.
+<br/>
 
 ```
-Stack: AI/ML · NLP · Python · Embedded Systems
-Grant: $1,350 IEEE EPICS
+╔══════════════════════════════════════╗
+║  CODENAME: HandSign-X1   ⚡ ACTIVE   ║
+╚══════════════════════════════════════╝
 ```
-- Real-time speech-to-text & sign language pipeline
-- Embedded systems handheld form factor
-- Production-grade NLP for accessibility
 
+### 🖐 Smart Handheld Translator
+**IEEE EPICS Funded Project**
+
+> Real-time AI communication device for the hearing & speech impaired — bridging the accessibility gap with embedded AI.
+
+```python
+stack  = ["AI/ML", "NLP", "Python", "Embedded Systems"]
+grant  = "$1,350 USD — IEEE EPICS"
+status = "ACTIVE → Real-world deployment planned"
+```
+
+**◈** Real-time speech-to-text & sign language pipeline  
+**◈** Embedded systems integration, handheld form factor  
+**◈** First IEEE-funded project at institution  
+
+**`$1,350`** &nbsp; IEEE EPICS Grant &nbsp;|&nbsp; **`⚡ ACTIVE`**
+
+<br/>
 </td>
 <td width="50%" valign="top">
-
-### ✓ DeepShield-v2 &nbsp; `DEPLOYED`
-**AI Face Morphing & Deepfake Detection System**
-
-Identity-aware deepfake detection using CNN binary classification to identify AI-manipulated facial images with high precision. **First-author research contribution.**
+<br/>
 
 ```
-Stack: Deep Learning · CNN · PyTorch · Computer Vision
-Result: 83.6% detection accuracy
+╔══════════════════════════════════════╗
+║  CODENAME: DeepShield-v2   ✓ DONE   ║
+╚══════════════════════════════════════╝
 ```
-- CNN-based authentic vs. fake face classification
-- Identity-aware feature extraction architecture
-- Novel computer vision research contribution
 
+### 🛡 Deepfake Detection System
+**First-Author Research Contribution**
+
+> Identity-aware deepfake detection using CNN binary classification — detecting what the human eye can't see.
+
+```python
+stack    = ["Deep Learning", "CNN", "PyTorch", "CV"]
+accuracy = 83.6          # % detection accuracy
+role     = "First Author" # research contribution
+```
+
+**◈** CNN binary classification: real vs. synthetic faces  
+**◈** Identity-aware feature extraction architecture  
+**◈** Novel computer vision research — 83.6% accuracy  
+
+**`83.6%`** &nbsp; Accuracy &nbsp;|&nbsp; **`1st Author`** &nbsp; Research
+
+<br/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### ✓ MigrateIQ &nbsp; `COMPLETE`
-**AI-Driven Migration Readiness Simulator**
-
-Full-stack AI app predicting migration readiness with a CatBoost ML model. Django REST backend + interactive React frontend dashboard.
+<br/>
 
 ```
-Stack: CatBoost · Django · React · REST API
-Speed: <1s inference response time
+╔══════════════════════════════════════╗
+║  CODENAME: MigrateIQ     ✓ DONE     ║
+╚══════════════════════════════════════╝
 ```
-- Structured demographic data ML model
-- Live prediction endpoints
-- Sub-second inference in production
 
+### 🧠 Migration Readiness AI Simulator
+**End-to-End AI Product**
+
+> Full-stack application predicting migration readiness using CatBoost — from raw data to live React dashboard.
+
+```python
+stack     = ["CatBoost", "Django", "React", "REST API"]
+inference = "<1s"        # real-time predictions
+type      = "E2E AI product"
+```
+
+**◈** CatBoost model on structured demographic data  
+**◈** Django REST backend + React interactive frontend  
+**◈** Sub-second inference response in production  
+
+**`<1s`** &nbsp; Inference &nbsp;|&nbsp; **`E2E`** &nbsp; AI Product
+
+<br/>
 </td>
 <td width="50%" valign="top">
-
-### ✓ ResumeX-NLP &nbsp; `COMPLETE`
-**AI Resume Parsing & Information Extraction**
-
-Intelligent NLP pipeline parsing unstructured resumes into structured candidate profiles. Auto-extracts skills, education, and experience for ATS integration.
+<br/>
 
 ```
-Stack: NLP · Python · Entity Extraction
-Output: Structured JSON for ATS systems
+╔══════════════════════════════════════╗
+║  CODENAME: ResumeX-NLP   ✓ DONE     ║
+╚══════════════════════════════════════╝
 ```
-- Named entity recognition for names, dates, orgs
-- Bulk document processing architecture
-- Automated screening pipeline
 
+### 📄 AI Resume Parsing System
+**NLP Automation Pipeline**
+
+> Intelligent pipeline converting unstructured resumes into structured candidate profiles — automated screening at scale.
+
+```python
+stack  = ["NLP", "Python", "Entity Extraction", "NER"]
+output = "Structured JSON → ATS Integration"
+scale  = "Bulk document processing ready"
+```
+
+**◈** Named entity recognition: names, dates, institutions  
+**◈** Auto-extracts skills, education, work experience  
+**◈** Structured JSON output for downstream ATS systems  
+
+**`NLP`** &nbsp; Pipeline &nbsp;|&nbsp; **`Bulk`** &nbsp; Processing Ready
+
+<br/>
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `// 04 — ACHIEVEMENTS VAULT`
+## 🏆 &nbsp;`// 04 — ACHIEVEMENT.VAULT`
 
 <div align="center">
 
-| 🏆 | Achievement | Tier | Details |
-|:---:|:---|:---:|:---|
-| 💰 | **IEEE EPICS Grant** | `LEGENDARY` | $1,350 funding secured — first IEEE-funded project at institution |
-| 📚 | **Research Publication** | `EPIC` | First-author deepfake detection framework · 83.6% accuracy |
-| 🐍 | **NPTEL Elite + Silver** | `EPIC` | Python for Data Science — ranked among national top performers |
-| 💻 | **Code Warrior** | `RARE` | 350+ problems solved — LeetCode · CodeChef · HackerRank |
-| 📜 | **Cert Collector** | `RARE` | 20+ certifications in ML, DS, Programming · 10+ HackerRank badges |
-| 🔐 | **Client Delivery** | `UNCOMMON` | QR-based cert verification system — live in production |
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ UNLOCKED ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+| TIER | ACHIEVEMENT | DETAILS |
+|:---:|:---|:---|
+| 💛 `LEGENDARY` | **IEEE EPICS Grant — $1,350** | First IEEE-funded project at institution · Real-world accessibility deployment |
+| 💜 `EPIC` | **First-Author Research Publication** | Deepfake detection framework · 83.6% accuracy on synthetic facial image classification |
+| 💜 `EPIC` | **NPTEL Elite + Silver — Python for Data Science** | National programme · Ranked among top performers nationwide |
+| 🔵 `RARE` | **Code Warrior — 350+ Problems Solved** | SRM eLab · LeetCode · CodeChef · HackerRank — DSA mastery |
+| 🔵 `RARE` | **Cert Collector — 20+ Certifications** | ML, Data Science, Programming + 10 HackerRank skill assessment badges |
+| 🟢 `UNCOMMON` | **Live Client Delivery** | QR-based certificate verification system — currently in production |
+| 🟢 `UNCOMMON` | **Data Science Virtual Internship** | Skill Craft Technology |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `// 05 — STATS`
+## 📡 &nbsp;`// 05 — STATS.DASHBOARD`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sakthi0400J&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030811&title_color=00F5FF&icon_color=B026FF&text_color=ffffff&border_color=00F5FF" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Sakthi0400J&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=B026FF&text_color=c9d1d9&ring_color=FF2D95" />
+&nbsp;&nbsp;
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi0400J&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sakthi0400J&hide_border=true&background=0D1117&stroke=00F5FF&ring=B026FF&fire=FF2D95&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&sideNums=ffffff&currStreakNum=ffffff" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakthi0400J&bg_color=0D1117&color=00F5FF&line=B026FF&point=FF2D95&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎓 &nbsp;`// 06 — EDUCATION.CORE`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   ██████╗    TECH                                                   │
+│   ██╔══██╗                                                          │
+│   ██████╔╝   B.Tech — Artificial Intelligence & Data Science        │
+│   ██╔══██╗   SRM TRP Engineering College · Tamil Nadu, India        │
+│   ██████╔╝                                                          │
+│   ╚═════╝    2023 ——————————————————————————————► 2027              │
+│                                                                     │
+│   CGPA ──────────────────────────────────── 7.53 / 10.0            │
+│          ████████████████████████████████░░░░░░░░                  │
+│                         75.3% complete                              │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🔭 &nbsp;`// 07 — LEARNING.PROTOCOL`
+
+<div align="center">
+
+```
+ PRIORITY    MODULE               TARGETS
+─────────────────────────────────────────────────────────────────────
+ ██ HIGH  ▸  AI Agents         →  LangGraph · MCP · Multi-Agent · Agentic RAG
+ ██ HIGH  ▸  Cloud Infra       →  AWS (EC2/S3/Lambda/SageMaker) · Docker · K8s
+ ▓▓ MED   ▸  System Design     →  Microservices · Distributed AI · Prod ML patterns
+ ░░ ONGOING  Deep Learning     →  Transformers · ViT · Diffusion Models · Multimodal
+─────────────────────────────────────────────────────────────────────
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌐 &nbsp;`// 08 — UPLINK.CHANNELS`
+
+<div align="center">
+
+<a href="https://github.com/Sakthi0400J">
+<img src="https://img.shields.io/badge/GITHUB-Sakthi0400J-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00F5FF"/>
+</a>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi0400J&layout=compact&theme=tokyonight&hide_border=true&bg_color=030811&title_color=00F5FF&text_color=ffffff" />
+<a href="https://linkedin.com/in/sakthi-shriram-k-6a7410292">
+<img src="https://img.shields.io/badge/LINKEDIN-sakthi--shriram--k-B026FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=B026FF"/>
+</a>
+&nbsp;
+<a href="mailto:sakthishriram12156@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-sakthishriram12156-FF2D95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=FF2D95"/>
+</a>
+&nbsp;
+<a href="tel:+916369487227">
+<img src="https://img.shields.io/badge/PHONE-+91%206369487227-00FF88?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&color=00FF88"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sakthi0400J&theme=tokyonight&hide_border=true&background=030811&stroke=00F5FF&ring=B026FF&fire=FF2D95&currStreakLabel=00F5FF" />
-
-</div>
-
----
-
-## `// 06 — EDUCATION`
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  B.Tech — Artificial Intelligence & Data Science            │
-│  SRM TRP Engineering College · Tamil Nadu, India            │
-│  CGPA: 7.53 / 10.0  ████████████████████░░░░  2023 – 2027  │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `// 07 — CURRENT LEARNING PROTOCOL`
-
-```
-[ HIGH PRIORITY ]  AI Agents
-                   ├── LangGraph — multi-step orchestration
-                   ├── MCP — tool-augmented AI systems
-                   ├── Multi-Agent Systems architecture
-                   └── Agentic RAG pipelines
-
-[ HIGH PRIORITY ]  Cloud Infrastructure
-                   ├── AWS (EC2, S3, Lambda, SageMaker)
-                   ├── Docker containerization
-                   ├── Kubernetes orchestration
-                   └── CI/CD pipelines
-
-[ MEDIUM       ]   System Design
-                   ├── Scalable microservices architecture
-                   ├── Distributed AI system design
-                   └── Production ML deployment patterns
-
-[ ONGOING      ]   Deep Learning
-                   ├── Transformer architectures
-                   ├── Vision Transformers (ViT)
-                   ├── Diffusion models
-                   └── Multimodal AI systems
-```
-
----
-
-## `// 08 — NETWORK INTERFACE`
-
-<div align="center">
-
-| Channel | Handle |
-|:---:|:---|
-| 🐙 GitHub | [Sakthi0400J](https://github.com/Sakthi0400J) |
-| 💼 LinkedIn | [sakthi-shriram-k](https://linkedin.com/in/sakthi-shriram-k-6a7410292) |
-| 📧 Email | [sakthishriram12156@gmail.com](mailto:sakthishriram12156@gmail.com) |
-| 📞 Signal | +91 6369487227 |
+![Profile Views](https://komarev.com/ghpvc/?username=Sakthi0400J&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
 ```
-> session_terminated —— connection closed ——
-> see you in the next build.
+> session_terminated ——————————— connection closed ———————————
+> built with intent. engineered with precision.
+> see you in the next build, operator.
 ```
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=80&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF2D95,50:B026FF,100:00F5FF&section=footer" width="100%"/>
 
 </div>
